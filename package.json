@@ -1,0 +1,11 @@
+{
+  "name": "riege-sftp-bridge",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": { "start": "node index.js" },
+  "dependencies": {
+    "express": "^4.18.2",
+    "ssh2-sftp-client": "^10.0.3",
+    "dotenv": "^16.3.1"
+  }
+}
